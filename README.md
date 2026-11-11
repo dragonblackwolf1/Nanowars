@@ -199,4 +199,4 @@ This repository serves as the official landing page for **Nanowars**. The softwa
 **Get the most recent version of Nanowars today!**
 
 ---
-**Last updated:** 2026-11-11 10:08:00 UTC
+**Last updated:** 2026-11-11 18:16:17 UTC
